@@ -1,5 +1,5 @@
-DOMAIN-KEYWORD,graph
-;DOMAIN-SUFFIX,graph.facebook.com
+;DOMAIN-KEYWORD,graph
+DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.com
