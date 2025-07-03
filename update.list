@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,updatepro.wps.cn
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,update.googleapis.cn
 DOMAIN-SUFFIX,tools.google.com
-IP-CIDR,120.92.102.194,no-resolve
 DOMAIN-SUFFIX,updates.tdesktop.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
