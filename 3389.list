@@ -1,8 +1,8 @@
 DST-PORT,3389
 SRC-PORT,3389
 DST-PORT,18000
-DOMAIN-SUFFIX,mstsc.top
-DOMAIN-SUFFIX,ddnsto.com
-DOMAIN-SUFFIX,kooldns.cn
-DOMAIN-SUFFIX,tocmcc.cn
-DOMAIN-SUFFIX,x.ddnsto.com
+DOMAIN-KEYWORD,mstsc.top
+DOMAIN-KEYWORD,ddnsto.com
+DOMAIN-KEYWORD,kooldns.cn
+DOMAIN-KEYWORD,tocmcc.cn
+DOMAIN-KEYWORD,x.ddnsto.com
