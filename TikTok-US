@@ -8,7 +8,7 @@ ruleset=➡️漏网之鱼,[]FINAL
 ;2、策略组
 custom_proxy_group=🔗本地直连`select`[]DIRECT`[]REJECT
 custom_proxy_group=🔃应用更新`select`[]REJECT`[]美国手动`[]DIRECT
-custom_proxy_group=💯全局`select`[]美国-自动`[]美国手动`[]DIRECT`[]REJECT
+custom_proxy_group=💯全局`select`[]美国自动`[]美国手动`[]DIRECT`[]REJECT
 custom_proxy_group=➡️漏网之鱼`select`[]美国自动`[]美国手动`[]DIRECT`[]REJECT
 
 ;3、节点组
