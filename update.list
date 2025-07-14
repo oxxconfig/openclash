@@ -4,6 +4,12 @@ DOMAIN-SUFFIX,update.pan.baidu.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,update.googleapis.cn
 DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients3.google.com
+DOMAIN-SUFFIX,redirector.gvt1.com
+DOMAIN-SUFFIX,omahaproxy.appspot.com
+DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
