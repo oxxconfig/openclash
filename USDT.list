@@ -287,3 +287,4 @@ DOMAIN,token-api.metaswap.codefi.network
 PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
+DOMAIN-SUFFIX,boerse-frankfurt.de
