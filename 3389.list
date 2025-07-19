@@ -1,5 +1,5 @@
-;GEOIP,CN,,no-resolve
-GEOSITE,cn
+;GEOIP,CN,no-resolve
+;GEOSITE,cn
 DST-PORT,3389
 SRC-PORT,3389
 DST-PORT,18000
