@@ -13,4 +13,8 @@ DOMAIN-SUFFIX,metaglide.org
 DOMAIN-SUFFIX,123045.xyz
 DOMAIN-SUFFIX,shezhi.xin
 DOMAIN-SUFFIX,uppo.net
-
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN,www.msftconnecttest.com
+DOMAIN,www.msftncsi.com
+   
