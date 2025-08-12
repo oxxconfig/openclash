@@ -1,0 +1,27 @@
+# EPDG（IPSec 网关） 中国移动（China Mobile, MCC 460 MNC 00/02/07/08）
+epdg.epc.mnc000.mcc460.pub.3gppnetwork.org
+epdg.epc.mnc002.mcc460.pub.3gppnetwork.org
+epdg.epc.mnc007.mcc460.pub.3gppnetwork.org
+epdg.epc.mnc008.mcc460.pub.3gppnetwork.org
+
+# IMS 注册
+ims.mnc000.mcc460.3gppnetwork.org
+ims.mnc002.mcc460.3gppnetwork.org
+ims.mnc007.mcc460.3gppnetwork.org
+ims.mnc008.mcc460.3gppnetwork.org
+
+# EPDG 中国联通（China Unicom, MCC 460 MNC 01/06）
+epdg.epc.mnc001.mcc460.pub.3gppnetwork.org
+epdg.epc.mnc006.mcc460.pub.3gppnetwork.org
+
+# IMS
+ims.mnc001.mcc460.3gppnetwork.org
+ims.mnc006.mcc460.3gppnetwork.org
+
+# EPDG 中国电信（China Telecom, MCC 460 MNC 03/11）
+epdg.epc.mnc003.mcc460.pub.3gppnetwork.org
+epdg.epc.mnc011.mcc460.pub.3gppnetwork.org
+
+# IMS
+ims.mnc003.mcc460.3gppnetwork.org
+ims.mnc011.mcc460.3gppnetwork.org
