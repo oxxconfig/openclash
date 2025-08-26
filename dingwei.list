@@ -21,12 +21,6 @@ DOMAIN-SUFFIX,getipintel.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,klayer.com
-DOMAIN-SUFFIX,is.snssdk.com
-DOMAIN-SUFFIX,security.snssdk.com
-DOMAIN-SUFFIX,log.snssdk.com
-DOMAIN-SUFFIX,api.amemv.com
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-KEYWORD,api.douyin.com
-DOMAIN-SUFFIX,analytics.snssdk.com
-DOMAIN-SUFFIX,report.snssdk.com
-DOMAIN-SUFFIX,log.amemv.com
-DOMAIN-SUFFIX,monitor.snssdk.com
+DOMAIN-SUFFIX,snssdk.com
