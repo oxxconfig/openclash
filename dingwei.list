@@ -21,6 +21,18 @@ DOMAIN-SUFFIX,getipintel.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,klayer.com
-DOMAIN-SUFFIX,amemv.com
+# 抖音属地识别/风控/长连接接口
 DOMAIN-KEYWORD,api.douyin.com
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,aweme.snssdk.com
+DOMAIN-KEYWORD,bytelink
+DOMAIN-KEYWORD,klink
+DOMAIN-KEYWORD,mon
+DOMAIN-KEYWORD,log
+DOMAIN-SUFFIX,webcast.amemv.com
+DOMAIN-KEYWORD,imapi
+DOMAIN-KEYWORD,im.douyin
+DOMAIN-KEYWORD,chat
+DOMAIN-SUFFIX,im.snssdk.com
