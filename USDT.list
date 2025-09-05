@@ -288,3 +288,5 @@ PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
 DOMAIN-SUFFIX,boerse-frankfurt.de
+DOMAIN-SUFFIX,moomoo.com
+
