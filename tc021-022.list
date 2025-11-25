@@ -1,2 +1,2 @@
 SRC-IP-CIDR,172.16.255.21/32,no-resolve
-SRC-IP-CIDR,192.16.255.22/32,no-resolve
+SRC-IP-CIDR,172.16.255.22/32,no-resolve
