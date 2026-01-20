@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,ballappart.com
-DOMAIN-SUFFIX,www.tradegate.de
+DOMAIN-KEYWORD,tradegate
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,xop.cc
 DOMAIN,bybit-exchange.github.io
@@ -288,5 +288,6 @@ PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
 DOMAIN-SUFFIX,boerse-frankfurt.de
+
 
 
