@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,ballappart.com
 DOMAIN-KEYWORD,tradegate
 DOMAIN,bybit.ada.support
@@ -288,6 +289,7 @@ PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
 DOMAIN-SUFFIX,boerse-frankfurt.de
+
 
 
 
