@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,123045.xyz
 DOMAIN-SUFFIX,shezhi.xin
 DOMAIN-SUFFIX,uppo.net
 DOMAIN-SUFFIX,yefiot.com
+DOMAIN-SUFFIX,kuozang.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN,www.msftconnecttest.com
@@ -274,6 +275,7 @@ DOMAIN-KEYWORD,aria2
 PROCESS-NAME,DownloadService.exe
 PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
+
 
 
 
