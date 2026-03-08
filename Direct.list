@@ -53,3 +53,6 @@ PROCESS-NAME,fdm.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,IDMan.exe
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,eMule.exe
+PROCESS-NAME,plugin_eMule.exe
