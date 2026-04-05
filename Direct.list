@@ -1,5 +1,3 @@
-SRC-PORT,3389
-DST-PORT,3389
 GEOIP,CN,no-resolve
 GEOSITE,cn
 DOMAIN-SUFFIX,cn
@@ -20,6 +18,7 @@ DOMAIN-SUFFIX,tagweb.vip
 DOMAIN-SUFFIX,tagxx.vip
 DOMAIN-SUFFIX,ideas-e.com
 DOMAIN-SUFFIX,iotwish.com
+DOMAIN-SUFFIX,huitudashi.vip
 DOMAIN,analytics.strava.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,blzddist1-a.akamaihd.net
