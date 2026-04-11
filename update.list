@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,download.360safe.com
 DOMAIN-SUFFIX,update.360.cn
 DOMAIN-SUFFIX,update.360.com
 DOMAIN-SUFFIX,update.360browser.com
+# Auto Cad
 DOMAIN-SUFFIX,activate.autodesk.com
 DOMAIN-SUFFIX,licensing.autodesk.com
 DOMAIN-SUFFIX,adlm.autodesk.com
@@ -30,9 +31,11 @@ DOMAIN-SUFFIX,services.activation.autodesk.com
 DOMAIN-SUFFIX,mls.autodesk.com
 DOMAIN-SUFFIX,usage.autodesk.com
 DOMAIN-SUFFIX,logs.autodesk.com
+# 火绒商城
 # DOMAIN-SUFFIX,down-tencent.huorong.cn
 DOMAIN-SUFFIX,api.bugreport.huorong.cn
 DOMAIN-SUFFIX,pc-store-huorong.lenovomm.cn
+# CAD看图
 DOMAIN,backup.lumion3d.net
 DOMAIN,license.lumion3d.net
 DOMAIN,backup.lumion3d.com
