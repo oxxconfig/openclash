@@ -35,7 +35,7 @@ DOMAIN-SUFFIX,logs.autodesk.com
 # DOMAIN-SUFFIX,down-tencent.huorong.cn
 DOMAIN-SUFFIX,api.bugreport.huorong.cn
 DOMAIN-SUFFIX,pc-store-huorong.lenovomm.cn
-# CAD看图
+# CAD快速看图
 DOMAIN,backup.lumion3d.net
 DOMAIN,license.lumion3d.net
 DOMAIN,backup.lumion3d.com
