@@ -33,5 +33,12 @@ DOMAIN-SUFFIX,logs.autodesk.com
 # DOMAIN-SUFFIX,down-tencent.huorong.cn
 DOMAIN-SUFFIX,api.bugreport.huorong.cn
 DOMAIN-SUFFIX,pc-store-huorong.lenovomm.cn
-
+DOMAIN,backup.lumion3d.net
+DOMAIN,license.lumion3d.net
+DOMAIN,backup.lumion3d.com
+DOMAIN,activate.lumion3d.com
+DOMAIN,license.lumiontech.net
+DOMAIN,upload.lumion3d.net
+DOMAIN,upload.lumion3d.com
+DOMAIN,cad.glodon.com
 
