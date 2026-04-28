@@ -64,3 +64,4 @@ DOMAIN-SUFFIX,hikvision.com
 #睿博士
 IP-CIDR,190.92.209.173/32,no-resolve
 DOMAIN-SUFFIX,kineticbloom.org
+DOMAIN-SUFFIX,giphy.com
