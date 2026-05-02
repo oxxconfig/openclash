@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,socloud.me
 # Umami 官方提供的 Cloud（云托管）版本
 DOMAIN-SUFFIX,umami.is
 DOMAIN-SUFFIX,umami.dev
+# 沉浸式翻译 (Immersive Translate)
+DOMAIN-SUFFIX,api2.immersivetranslate.com
