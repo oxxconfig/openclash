@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,letsvpn.world
 # 机场
 DOMAIN-SUFFIX,socloud.me
+DOMAIN-SUFFIX,xinzhilian.xyz
+DOMAIN-SUFFIX,zhilianyun.co
+DOMAIN-SUFFIX,zzzzz8.com
 # Umami 官方提供的 Cloud（云托管）版本
 DOMAIN-SUFFIX,umami.is
 DOMAIN-SUFFIX,umami.dev
@@ -27,3 +30,4 @@ DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,jixietop.top
 DOMAIN-SUFFIX,jixietop.cn
+
