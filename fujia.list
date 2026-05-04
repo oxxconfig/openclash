@@ -21,3 +21,9 @@ DOMAIN-SUFFIX,umami.is
 DOMAIN-SUFFIX,umami.dev
 # 沉浸式翻译 (Immersive Translate)
 DOMAIN-SUFFIX,immersivetranslate.com
+# 海外媒体
+DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,wallzhihu.com
+DOMAIN-SUFFIX,jixietop.top
+DOMAIN-SUFFIX,jixietop.cn
