@@ -38,3 +38,5 @@ DOMAIN-SUFFIX,qsu.hk
 DOMAIN-SUFFIX,alibabacloud.com
 # youtube视频下载
 DOMAIN-SUFFIX,googlevideo.com
+# 谷歌 Chrome 插件商城
+DOMAIN-SUFFIX,googleusercontent.com
