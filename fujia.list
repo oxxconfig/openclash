@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,xiaoheicn.top
 DOMAIN-SUFFIX,qsu.hk
 # 阿里云海外服务器
 DOMAIN-SUFFIX,alibabacloud.com
+# youtube视频下载
+DOMAIN-SUFFIX,googlevideo.com
