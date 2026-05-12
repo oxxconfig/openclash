@@ -46,5 +46,5 @@ DOMAIN,upload.lumion3d.com
 DOMAIN,cad.glodon.com
 #病毒
 IP-CIDR,27.124.34.172/32,no-resolve
-# 1e10adc3949ba59abiqjffzlsxmubmxndbaraodtopq.dahhxxttxs.com
-dahhxxttxs.com
+# DOMAIN-SUFFIX,1e10adc3949ba59abiqjffzlsxmubmxndbaraodtopq.dahhxxttxs.com
+DOMAIN-SUFFIX,dahhxxttxs.com
