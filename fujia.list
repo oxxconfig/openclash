@@ -42,3 +42,5 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,privateemail.com
 DOMAIN-SUFFIX,gate.com
+# 梅林
+DOMAIN-SUFFIX,asuswrt-merlin.net
