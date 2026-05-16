@@ -66,3 +66,4 @@ IP-CIDR,190.92.209.173/32,no-resolve
 DOMAIN-SUFFIX,kineticbloom.org
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,share-email.com
