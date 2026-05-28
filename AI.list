@@ -54,7 +54,7 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,gemini
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
