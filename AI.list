@@ -60,7 +60,8 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.gstatic
 DOMAIN-KEYWORD,googleapis-pa
 ## --Google Gemini /NoteBookLM
 DOMAIN-SUFFIX,notebooklm.google
