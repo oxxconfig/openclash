@@ -7,18 +7,28 @@ DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,tagss.pro
 DOMAIN-SUFFIX,besnow.org
-DOMAIN-SUFFIX,gname.com # 域名注册
-DOMAIN-SUFFIX,gname.vip # 域名注册
+# 域名注册
+DOMAIN-SUFFIX,gname.com
+DOMAIN-SUFFIX,gname.vip
 DOMAIN-SUFFIX,freedom.gov
-DOMAIN-SUFFIX,letsvpn.world # 快连
-DOMAIN-SUFFIX,socloud.me # 机场
-DOMAIN-SUFFIX,xinzhilian.xyz # 机场
-DOMAIN-SUFFIX,zhilianyun.co # 机场
-DOMAIN-SUFFIX,zzzzz8.com # 机场
-DOMAIN-SUFFIX,umami.is # Umami 官方提供的 Cloud（云托管）版本
-DOMAIN-SUFFIX,umami.dev # Umami 官方提供的 Cloud（云托管）版本
-DOMAIN-SUFFIX,immersivetranslate.com # 沉浸式翻译 (Immersive Translate)
-DOMAIN-SUFFIX,cna.com.tw # 海外媒体
+# 快连
+DOMAIN-SUFFIX,letsvpn.world
+# 机场
+DOMAIN-SUFFIX,socloud.me 
+DOMAIN-SUFFIX,xinzhilian.xyz
+DOMAIN-SUFFIX,zhilianyun.co
+DOMAIN-SUFFIX,zzzzz8.com
+DOMAIN-SUFFIX,cyberguard.best
+DOMAIN-SUFFIX,naiyovpn.com
+DOMAIN-SUFFIX,glados.one
+DOMAIN-SUFFIX,glados.network
+# Umami 官方提供的 Cloud（云托管）版本
+DOMAIN-SUFFIX,umami.is 
+DOMAIN-SUFFIX,umami.dev
+# 沉浸式翻译 (Immersive Translate)
+DOMAIN-SUFFIX,immersivetranslate.com
+# 海外媒体
+DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,jixietop.top
@@ -26,20 +36,20 @@ DOMAIN-SUFFIX,jixietop.cn
 DOMAIN-SUFFIX,onetechcloud.com # VPS
 DOMAIN-SUFFIX,xiaoheicn.top
 DOMAIN-SUFFIX,qsu.hk
-DOMAIN-SUFFIX,alibabacloud.com # 阿里云海外服务器
-DOMAIN-SUFFIX,googlevideo.com # youtube视频下载
-DOMAIN-SUFFIX,googleusercontent.com # 谷歌 Chrome 插件商城
+DOMAIN-SUFFIX,alibabacloud.com
+# 阿里云海外服务器
+# youtube视频下载
+DOMAIN-SUFFIX,googlevideo.com
+# 谷歌 Chrome 插件商城
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,privateemail.com
 DOMAIN-SUFFIX,gate.com
-DOMAIN-SUFFIX,asuswrt-merlin.net # 梅林
+# 梅林
+DOMAIN-SUFFIX,asuswrt-merlin.net
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,netsky.club
 DOMAIN-SUFFIX,gorecenter.com
-DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,huitudashi.vip
-DOMAIN-SUFFIX,glados.one
-DOMAIN-SUFFIX,glados.network
 DOMAIN-SUFFIX,softonic.com
 DOMAIN-SUFFIX,majorgeeks.com
 DOMAIN-SUFFIX,softpedia.com
-DOMAIN-SUFFIX,cyberguard.best # 机场
