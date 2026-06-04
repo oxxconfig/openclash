@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,wtfismyip.com
 DOMAIN-KEYWORD,myip
 DOMAIN,pubstatic.b0.upaiyun.com
 DOMAIN-SUFFIX,b0.upaiyun.com
+DOMAIN-SUFFIX,ipify.org
+DOMAIN,api.ipify.org
+DOMAIN,api64.ipify.org
