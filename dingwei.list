@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,api.myip.la
-DOMAIN-SUFFIX,b0.upaiyun.com
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,cip.cc
@@ -41,11 +40,11 @@ DOMAIN-SUFFIX,pure.ip.sj.qq.com
 DOMAIN-SUFFIX,qqwry.api.skk.moe
 DOMAIN-SUFFIX,qqwry.mirror.noc.one
 DOMAIN-SUFFIX,qqwry-mirror.cdn.skk.moe
-DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,tools.ipip.net
 DOMAIN-SUFFIX,ttt.sh
-DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whois.pconline.com.cn
 DOMAIN-SUFFIX,wtfismyip.com
 DOMAIN-KEYWORD,myip
+DOMAIN,pubstatic.b0.upaiyun.com
+DOMAIN-SUFFIX,b0.upaiyun.com
