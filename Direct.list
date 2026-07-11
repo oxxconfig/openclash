@@ -70,7 +70,7 @@ DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,wcc.best
 DOMAIN-SUFFIX,asailor.org
 DOMAIN-SUFFIX,hikvision.com
-#睿博士
+# 睿博士
 IP-CIDR,190.92.209.173/32,no-resolve
 DOMAIN-SUFFIX,kineticbloom.org
 DOMAIN-SUFFIX,giphy.com
@@ -78,3 +78,5 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,privateemail.com
 DOMAIN-SUFFIX,share-email.com
 DOMAIN-SUFFIX,optus.com.au
+# 工程宝更新
+DOMAIN-SUFFIX,ipctester.com
