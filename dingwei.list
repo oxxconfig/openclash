@@ -51,3 +51,5 @@ DOMAIN-SUFFIX,b0.upaiyun.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN,api.ipify.org
 DOMAIN,api64.ipify.org
+DOMAIN-SUFFIX,ip.skk.moe
+DOMAIN-SUFFIX,ipv4-ip.api.skk.moe
