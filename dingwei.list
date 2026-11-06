@@ -53,3 +53,4 @@ DOMAIN,api.ipify.org
 DOMAIN,api64.ipify.org
 DOMAIN-SUFFIX,ip.skk.moe
 DOMAIN-SUFFIX,ipv4-ip.api.skk.moe
+DOMAIN-SUFFIX,ipv6-ip.api.skk.moe
