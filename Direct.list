@@ -75,3 +75,5 @@ DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,bt5.me
 DOMAIN-SUFFIX,dujiaoshou.im
 DOMAIN-SUFFIX,dujiaoshouai.com
+# DDNSTO 自身穿透
+PROCESS-NAME,ddnspod
