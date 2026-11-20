@@ -1,0 +1,7 @@
+# Signal 分流规则
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signal.me
+DOMAIN-SUFFIX,signal.group
+DOMAIN-SUFFIX,signal.link
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.tube
