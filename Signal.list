@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,signal.group
 DOMAIN-SUFFIX,signal.link
 DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,signal.tube
+IP-CIDR,76.223.66.180/32,no-resolve
+IP-CIDR,15.197.251.99/32,no-resolve
